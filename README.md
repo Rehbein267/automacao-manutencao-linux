@@ -50,7 +50,7 @@ Foi feito de forma simples, mas já ajuda bastante a manter o sistema organizado
 - *Jane Rehbein*
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Interessada em Linux, automação e boas práticas de programação
-🔗 [GitHub](https://github.com/Rehbein267)
+- 🔗 [GitHub](https://github.com/Rehbein267)
 
 ## 📄 Licença
 
