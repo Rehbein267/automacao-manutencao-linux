@@ -45,11 +45,11 @@ Manutenção concluída com sucesso ✅
 Esse projeto é só um passo a mais nos meus estudos e prática com Linux.
 Foi feito de forma simples, mas já ajuda bastante a manter o sistema organizado.
 
-## ✍️  Autor(a)
+## ✍️  Autora
 
-Jane Rehbein
-Estudante de Análise e Desenvolvimento de Sistemas
-Interessada em Linux, automação e boas práticas de programação
+- *Jane Rehbein*
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Interessada em Linux, automação e boas práticas de programação
 🔗 [GitHub](https://github.com/Rehbein267)
 
 ## 📄 Licença
