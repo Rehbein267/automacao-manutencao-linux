@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script de manutenção do sistema Ubuntu
-# Autor: Jane + ChatGPT
+# Autor: Jane
 
 echo "🚀 Iniciando manutenção do sistema..."
 
