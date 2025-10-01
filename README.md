@@ -5,6 +5,8 @@
 Esse repositório foi criado para guardar um script simples que fiz em **Shell Script**, com a ideia de facilitar a manutenção do sistema Linux no dia a dia.
 A ideia é ter num só lugar os comandos que a gente mais usa para manter o sistema atualizado e limpo.
 
+![linux_manutencao](https://github.com/user-attachments/assets/c70da744-7407-415a-9675-8fb40c19250b)
+
 
 
 ---
