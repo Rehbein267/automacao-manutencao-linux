@@ -1,0 +1,18 @@
+#Arquivos de chaves SSH (para nunca serem compartilhados)
+#Evita qualquer nome padrão de chave SSH (publica e privada)
+id_rsa
+id_rsa.pub
+id_dsa
+id_dsa.pub
+id_ecdsa
+id_ecdsa.pu
+id_ed25519
+id_ed25519.pub
+
+#Ignorar pastas e arquivos criados por sistemas
+.DS_Store
+Thumbs.db
+
+#Ignorar arquivos de log, de cache e outros temporários
+*.log
+*.swp
